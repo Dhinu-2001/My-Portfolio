@@ -308,4 +308,20 @@ svg:hover {
     
   }
 }
+.aline{
+  display: flex;
+}
 
+ form div span{
+  color:red;
+  position:absolute;
+  margin-left: 250px;
+}
+#submit-error{
+  color:red;
+  position:absolute;
+  margin-left: 25px;
+}
+form div span i{
+  color:rgb(0, 154, 0);
+}
